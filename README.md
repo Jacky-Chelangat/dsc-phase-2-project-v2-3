@@ -93,7 +93,7 @@ Key factors influencing house prices are living space, number of bedrooms and ba
 
 ## Recommendations
 
- - Emphasize living spac, bathrooms and the square footage as key selling points to attract families and those seeking comfort.
+ - Emphasize living space, bathrooms and the square footage as key selling points to attract families and those seeking comfort.
 - Consider targeted renovations that are only needed as there is no major impact on the value of your property.
 - lot size does not necessarily impact the propert value, therefore the focus should be on the house size and not the lot size. Optimize on the lot size by have more development projects.
 - Consider the size and features of the house itself more than the overall lot size. However it is important to note that regulations and market trends may influence the prices.
